@@ -24,3 +24,4 @@ for x in range(len(myTuple_mixed)):
 print();
 for x in range(len(myTuple_advance)):
     print("Tuple Value is -> ",myTuple_advance[x], " and its type is ", type(myTuple_advance[x]));
+

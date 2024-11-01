@@ -35,3 +35,9 @@ for key, value in myDictionary_advance.items():
 # ITEMS
 print();
 print("items()  ->", myDictionary_advance.items());
+
+d = {'a':Exception}
+print(d)
+myString = str(d['a'])
+print(type(myString))
+#print(myString[0,5])
